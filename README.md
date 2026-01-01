@@ -50,7 +50,7 @@ For each ancestry group (e.g., EUR), and each trait:
 module load plink/1.90b7.2
 module load R/4.3.0
 
-
+```
 
 ---
 
