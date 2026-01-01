@@ -49,3 +49,15 @@ For each ancestry group (e.g., EUR), and each trait:
 ```bash
 module load plink/1.90b7.2
 module load R/4.3.0
+
+
+
+---
+
+## 3) Citation
+
+If you use or adapt this project's ideas and scripts, please cite the associated manuscript:
+
+Multi-ancestry survival GWAS of substance use initiation in the ABCD Study and cross-trait comparison across alcohol, nicotine, cannabis, and any substance use
+
+Mengman Wei\* and Qian Peng\* 
