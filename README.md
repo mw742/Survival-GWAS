@@ -56,8 +56,6 @@ module load R/4.3.0
 
 ## 3) Citation
 
-If you use or adapt this project's ideas and scripts, please cite the associated manuscript:
+If you use this work, please cite:
 
-Multi-ancestry survival GWAS of substance use initiation in the ABCD Study and cross-trait comparison across alcohol, nicotine, cannabis, and any substance use
-
-Mengman Wei\* and Qian Peng\* 
+Wei, M., & Peng, Q. (2026). *Multi-Ancestry Survival GWAS of Substance Use Initiation in the ABCD Study*. medRxiv. https://doi.org/10.64898/2026.04.08
